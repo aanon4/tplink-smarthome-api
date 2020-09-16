@@ -114,7 +114,7 @@
     "sinon": "^9.0.3",
     "sinon-chai": "^3.5.0",
     "source-map-support": "^0.5.19",
-    "tplink-smarthome-simulator": "^2.0.0",
+    "tplink-smarthome-simulator": "git+https://github.com/aanon4/tplink-smarthome-simulator",
     "ts-essentials": "^7.0.0",
     "ts-node": "^9.0.0",
     "typedoc": "^0.17.0-3",
